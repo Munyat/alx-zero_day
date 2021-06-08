@@ -1,2 +1,2 @@
 #
-Nothing much
+Nothing much but just an assignment
